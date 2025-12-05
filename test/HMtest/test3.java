@@ -1,7 +1,7 @@
 package HMtest;
 
 import java.util.Scanner;
-
+//逻辑运算符练习
 public class test3 {
     
     public static void main(String[] args) {
