@@ -11,6 +11,6 @@ public class ternaryoperatorDemo1 {
         int number2 = sc.nextInt();
         String max = number1 == number2 ? "相同" : "不同";
         System.out.println(max);
-
+            sc.close();
     }
 }
