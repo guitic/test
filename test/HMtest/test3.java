@@ -13,5 +13,5 @@ public class test3 {
         boolean result = number1 == 6 || number2 == 6  || (number1 + number2) % 6 == 0;
         System.out.println(result);
     }
-    
+
 }
