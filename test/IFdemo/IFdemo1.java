@@ -1,4 +1,4 @@
-package HMtest.IFdemo;
+package IFdemo;
 
 import java.util.Scanner;
 
